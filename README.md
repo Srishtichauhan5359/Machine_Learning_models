@@ -13,4 +13,4 @@ It is difficult or impossible to explicitly describe the solution or criteria be
 You have labeled data, or existing examples where you can describe the situation and map it to the correct result.
 
 
-THIS FILE CONTAINS beginner lever coding of basic machine learnign models like SVM, Random Forest, XG_Boost in R. 
+THIS FILE CONTAINS beginner level coding of basic machine learnign models like SVM, Random Forest, XG_Boost in R. 
